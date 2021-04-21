@@ -16,3 +16,7 @@ export default class MyDocument extends Document {
     )
   }
 }
+
+// arquivo criado para importar as fontes
+// porque se importasse pelo app iria precisar ficar recarregando sempre
+// assim como o app esse _document também fica em volta de toda a aplicação
